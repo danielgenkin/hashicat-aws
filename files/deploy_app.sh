@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>besit, scuko!</h2></center>
-  Welcome to ${PREFIX}'s app. ochen sil'no! 
+  Welcome to ${PREFIX}'s app. Ochen'-ochen'-ochen' ochen sil'no! 
   <!-- END -->
   
   </div>
