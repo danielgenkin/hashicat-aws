@@ -1,9 +1,9 @@
 terraform {
   backend "remote" {
     hostname = "app.terraform.io"
-    organization = "hashicorp-workshop"
+    organization = "danielgenkin-disfox"
     workspaces {
-      name = "YOURWORKSPACE"
+      name = "terraform_class_10_22_2019"
     }
   }
 }
